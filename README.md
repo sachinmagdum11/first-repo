@@ -1,3 +1,3 @@
-# first-repo
+# first-repo Minor Update!
 repo for practice git 
-CHANGES HAS BEEN DONE
+
