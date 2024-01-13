@@ -1,2 +1,3 @@
 # first-repo
-repo for practice git hub
+repo for practice git 
+CHANGES HAS BEEN DONE
